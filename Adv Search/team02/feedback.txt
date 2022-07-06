@@ -1,0 +1,6 @@
+Feedback for team02
+
+Well done!
+I'm curious how you created board.json and came up with the heuristic values.
+
+Status: passed
