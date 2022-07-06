@@ -1,0 +1,26 @@
+Feedback from team02
+
+Very good!
+Since you managed to make all the constraints work: 5 bonus points.
+
+Small tip for reducing nesting (some of your loops get really deeply nested):
+Sometimes using `continue` for the negated conditions simplifies things.
+Example:
+Instead of
+    for x in ...
+        if isOkay(x):
+            for y in ...:
+                a = y.getSomething()
+                if a is not None:
+                    doStuff(a)
+You could do:
+    for x in ...
+        if not isOkay(x):
+            continue
+        for y in ...:
+            a = y.getSomething()
+            if a is None:
+                continue
+            doStuff(a)
+
+Status: passed
