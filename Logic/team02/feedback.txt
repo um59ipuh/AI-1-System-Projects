@@ -1,0 +1,6 @@
+Feedback for team02
+
+Overall very good!
+Just your uniqueness results are not quite correct, I think. Your general idea of finding problematic areas is good (and specifically and the forest is indeed not unique). However, `Assignment` is also not unique (QR codes have error correction built in that makes it work even with small mistakes). A better way to check for uniqueness would be to add one more clause to your CNF that requires at least one cell to be different from the solution you've already found. If it becomes unsatisfiable, the solution was unique.
+
+Status: passed
