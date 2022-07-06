@@ -1,0 +1,1945 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:info="https://zbmath.org/infos#">
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223779">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Anovikov.s-ya"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60B05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60E15"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALorentz+functional+space"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainequalities"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223780">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aobnosov.yurii-v"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A30E25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3A%5C%28%5Cmathbb%7BR%7D%5C%29-linear+conjugation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelliptic+integration"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AJacobi+delta-function"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aheat+conduction"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adiffusion+and+filtration"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223781">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Apetrov.egor-e"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A44A12"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ARadon+transform"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ARadon+image+of+fast+decreasing+functions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aintrinsic+conditions"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223782">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Apolonskij.yu-a"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A46A22"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47A20"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainterpolation+of+subspaces"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asimultaneous+extension+of+a+family+of+operators+majorized+by+a+fixed+sublinear+operator"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aconditional+completeness"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainterpolation+property"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223783">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asilvestrov.vasilii-vasilevich"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A74S30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A74B05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ARiemann+boundary+value+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Astrain+intensity+coefficients"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223784">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asukacheva.tamara-gennadevna"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34A09"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aimplicit+systems+of+differential+equations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aindex+one"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asingular"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ADAEs"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223785">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Achuprunov.aleksei-n"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60B12"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60B05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aalmost+sure+convergence"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AOrlicz+spaces"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acharacterizations+of+infinitely+divisible+laws"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AHilbert+spaces"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223786">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Azhukova.nina-ivanovna"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A57R30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ARiemannian+foliation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asingularity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aleaf"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Astability"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223787">
+			<info:year>1992</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A28A35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A03C20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A28C20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60G30"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223788">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asamko.stefan-g"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ayakhshiboev.mahmadyor-u"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A26A33"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Atruncation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALiouville%27s+fractional+integro-differentiation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Afractional+differentiation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AChen-Marchaud+fractional+derivatives"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AChen+fractional+integrals"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223789">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aumarov.khasan-galsanovich"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35G10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adiffusion+equation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asemigroup"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asolvability"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aapproximate+problem"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223790">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ayafaev.dimitri-r"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A81U10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35Q40"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aasymptotic+completeness"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asmooth+perturbations"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223791">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adobyinsky.sylvia"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ameyer.yves-f"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A26B35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adiv-curl+lemma"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Arenormalization+operators"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223792">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asjostrand.johannes"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47A40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A81U10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acounting+function+of+the+positive+eigenvalues"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ADirichlet+realization+of+the+Laplacian+outside+a+bounded+convex+domain"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223793">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aleichtnam.eric"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35A20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35C10"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223794">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adagnolo.andrea"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35A27"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A32C38"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35A20"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223795">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amartinez.andre"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A81Q20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47G30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aspectral+properties+of+%5C%28h%5C%29-pseudodifferential+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aresonances"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Atunneling+between+microlocal+wells"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aremainder+estimates"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223796">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aladyzhenskaya.olga-aleksandrovna"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76M25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35Q30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76D05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amagnetohydrodynamics"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AGalerkin-Faedo+approximations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aminimal+global+%5C%28B%5C%29-+attractor"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainitial-boundary+value+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Athermo-convection"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223797">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adimassi.mouez"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A81Q20"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asemiclassical+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Atrace+formula"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aslow+perturbation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aasymptotic+expansion"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aperiodic+Schr%C3%B6dinger+operator"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AFloquet+spectral+band"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223798">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aderezinski.jean"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A81U10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A70F10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35Q40"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aproperties+of+classical+and+quantum+scattering"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223799">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Alerner.nicolas"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alocal+solvability+properties"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223800">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aikawa.mitsuru"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A30B60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A78A45"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AHelmholtz+equation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ADirichlet+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aanalytic+continuation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adistribution+of+poles+of+scattering+matrices"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223801">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Agerard.patrick"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aleichtnam.eric"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37A99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A58J60"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aergodic+theory"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aeigenfunctions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abilliard+problem"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223802">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aivrii.v-ja"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A58J40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37C10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aperiodic+flow"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apseudodifferential+operators"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acritical+values"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ajoint+spectrum"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aspectral+properties+of+Hamiltonians"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223803">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aegorov.yuri-vladimirovich"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J15"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223804">
+			<info:year>1992</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A58J50"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P20"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aspectral+asymptotics"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aboundary+value+problems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelliptic+operators"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223805">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Apetkov.vesselin-m"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J05"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223806">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ariviere.tristan"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A58E20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35D10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aregularity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aweak+solutions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3A3-dimensional+Euclidean+ball"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aharmonic+maps"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AEuclidean+2-sphere"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223807">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Atemam.roger-m"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37C70"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A58D25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34G20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35G10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K25"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223808">
+			<info:year>1992</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35R60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A92D25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aparabolic+equations+with+randomness"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aasymptotic+behaviour"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ahigher+moments+of+solution"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Afirst+moments"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Afundamental+solution"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223809">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Acancelier.c-e"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Achemin.jean-yves"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Axu.chao-jiang"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47G30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AWeyl+calculus"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asubelliptic+pseudodifferential+operators"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ageneralized+Laplacian"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aparametrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aimbedding"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ASobolev+spaces"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223810">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Achemin.jean-yves"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A46E35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47G10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47G30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ASobolev-type+spaces+of+distributions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AWeyl-H%C3%B6rmander+symbolic+calculus"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223811">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Agimse.tore"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35L65"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35L67"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76T99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35R05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35D05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adiscontinuous+flow"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aporous+media"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aconstructive+proof"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223812">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aavrin.joel-d"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K57"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A80A25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B40"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Areaction-diffusion+system"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acombustion"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223813">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aabergel.frederic"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ahilhorst.danielle"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aissard-roch.francoise"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K55"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35R35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35Q35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asurface+tension"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aone-phase+Stefan+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Awell-posedness+result"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223814">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Awolanski.noemi-i"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35A05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aparabolic+equations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aboundary+value+problems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apositive+solutions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aglobal+existence"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Afinite+time+blow-up"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223815">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Akawohl.bernd"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Alevine.howard-allen"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Avelte.waldemar"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J50"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J55"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A49R50"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A74K20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A74G60"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alinear+elasticity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aclamped+plate+under+compression"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aclamped+vibrating+plate+under+tension"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asingularly+perturbed+variational+problems"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223816">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asakai.makoto"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A30E20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A30E05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A30E99"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aquadrature+domain"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ASchwarz+function"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainversion"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223817">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Acolton.david-l"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ahahner.peter"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35R30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aacoustic+waves"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelectromagnetic+waves"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adual+space+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainverse+scattering"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223818">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amunoz-rivera.jaime-edilberto"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A74A15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35M10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B40"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALyapunov+function"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223819">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Athieme.horst-r"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37-XX"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A92D30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adynamical+system"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Auniform+strong+persistence+under+relaxed+point-+dissipativity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aepidemic+model"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aspread+of+an+infections+disease"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Agrowth+of+the+population"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223820">
+			<info:year>1993</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35A05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B65"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34B15"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Auniqueness"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asemilinear+elliptic+equation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AEmden-Fowler+transformation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aunstable+manifold"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apositive+radially+symmetric+solution"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223821">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adunbar.steven-r"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34B15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34C30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37-XX"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A86A05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alarge+scale+ocean+circulation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Athird-order+nonlinear+differential+equation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aboundary+layer+problems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AWazewski%27s+theorem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainvariant+manifolds"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALyapunov+functions"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223822">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ado-nascimento.arnaldo-simal"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J65"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aradial+symmetric+solutions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aasymptotic+behaviour"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asemilinear+elliptic+boundary+value+problem"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223823">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ali.lige"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aliu.yaping"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47H10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B32"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelliptic+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aprincipal+eigenvalues"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abifurcation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asmooth+boundary"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ahomogeneous+Robin-Dirichlet+boundary+conditions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Athree-species+interactions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aexistence+of+positive+solutions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Astability"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Areaction-+diffusion+semiflow"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223824">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adaubechies.ingrid-c"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A42C40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A46E35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultiresolution+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aorthonormal+bases"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Awavelets+with+compact+support"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asymmetry"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aregularity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ascaling+function"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223825">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Acohen.albert"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adaubechies.ingrid-c"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A42C40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A46A35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultiresolution+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Awavelet+packet"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Afrequency+resolution"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aorthonormal+bases"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abandwidth"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223826">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Alubinsky.doron-s"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asaff.edward-b"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A41A17"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A42C05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A41A10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aexponential+weights"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AMarkov+inequality"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ABernstein+inequalities"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AChristoffel+functions"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223827">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Agupta.sunetra"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aanderson.roy-m"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amay.robert-m"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A92D30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aantiviral+therapy"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aincubation+period+of+HIV-1"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainfectiousness"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aprevalence+of+infection"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abehaviour+change"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ahomogeneous+population"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adrug+efficacy"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abasic+reproductive+rate"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aheterogeneous+population"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aproportionate+mixing"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223828">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asingpurwalla.nozer-d"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Awilson.simon-p"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A90B99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A91A80"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A62M10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A90-02"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60K10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aforecasting"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AKalman+filtering"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Areliability"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Arenewal+theory"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Atime+series+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Awarranties"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223829">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ajacquez.john-a"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asimon.carl-p"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A92B05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93A30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37N99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93A99"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amass+balance+considerations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acompartmental+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Areview"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anonlinear+compartmental+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aunified+and+simplified+theory"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aoverview"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alinear+compartmental+system"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apartition"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abasic+types"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223830">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Akeener.james-p"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A62J15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15B48"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A18"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A05C50"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apaired+comparisons"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aranking"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aorderings"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Auneven+paired+competition"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3APerron-Frobenius+theorem"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223831">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amacki.jack-w"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Anistri.paolo"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Azecca.pietro"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34A60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34C25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A94C05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34-02"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Areview+paper"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amodels+for+hysteresis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amodels+due+to+Preisach%2C+Ishlinskij%2C+Duhem-Madelung%2C+Krasnoselskij-Pokrovskij"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223832">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ahigham.nicholas-j"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65K05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A90C30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AGaussian+elimination"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amatrix+condition+number+estimation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amatrix+computations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adirect+search+methods"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acondition+estimators"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amatrix+inversion"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AVandermonde+system+solvers"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amatrix+multiplication"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AQR-+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aalternating+direction+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultidirectional+search+method"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223833">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Agilbert.john-r"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aliu.joseph-w-h"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F50"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A05C20"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AGaussian+elimination"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anumerical+examples"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelimination+tree"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ACholesky+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asparse+symmetric+positive+definite+matrices"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asparse+LU+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aunsymmetric+matrices"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adirected+acyclic+graphs"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelimination+dags"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223834">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amoonen.marc-s"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Avan-dooren.paul-m"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Avandewalle.joos-p"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65Y20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65Y05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aparallel+algorithms"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Arecursive+least+squares"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asingular+value+decomposition+updating+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Are-orthogonalization+scheme"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asystolic+array"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acomplexity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AGivens+rotations"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223835">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Akaufman.linda"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F15"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abanded+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ageneralized+eigenvalue+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Achasing+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anumerical+results"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223836">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aolkin.ingram"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Arachev.svetlozar-t"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A45"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60E15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A62J10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultivariate+distributions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adistance+of+random+vectors"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acovariance+matrices"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223837">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ajohnson.charles-royal"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amehrmann.volker-ludwig"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aolesky.d-dale"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93B05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asign+controllability"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223838">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Afrommer.andreas"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amayer.gunter"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65G30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainterval+Gaussian+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainterval+vector"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AGaussian+algorithm"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223839">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Arichter.stephen"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adavis.larry-d"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Acollins.emmanuel-g-jun"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65K10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A24"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93D05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alinear+systems+of+equations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALyapunov+equations"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223840">
+			<info:year>1993</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65N55"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65N06"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65N30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultigrid+methods"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amethod+of+incremental+unknowns"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultilevel+finite+difference"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alinear+second+order+elliptic+boundary+value+problems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ahierarchical+basis+finite+element+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ADirichlet+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acondition+number"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anumerical+examples"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223841">
+			<info:year>1993</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F50"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asparse+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acomponentwise+perturbations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Astable+algorithms"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anumerical+experiments"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3APerron+root"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anon-negative+and+irreducible+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aerror+bound"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3APerron+eigenvectors"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainverse+iteration+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abackward+error"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223842">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asweet.douglas"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aerror+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AToeplitz+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ABareiss+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apivoting"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALU+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ATrench+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ANumerical+examples"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223843">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Astewart.gilbert-w"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AULV+decompositions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aupdating"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Arank+revealing"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223844">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Abini.dario-andrea"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Afavati.paola"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A12"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AToeplitz+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acirculant+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AFourier+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adiscrete+Hartley+transform"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apreconditioned+conjugate+gradient+method"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223845">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Akaszkurewicz.eugenius"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Abhaya.amit"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93D09"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93D30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93C15"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALyapunov+functions"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223846">
+			<info:year>1993</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A12"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15B57"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anonsymmetric+Toeplitz+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apreconditioned+nonsymmetric+iterative+solvers"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acirculant+preconditioners"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asingular+value+distribution"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AToeplitz+matrices"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aeigenvalues"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anumerical+examples"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223847">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Anaevdal.geir"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47A20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15B57"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apartial+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amatrix+completion"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AToeplitz+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apatterns"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alower+triangular+Toeplitz+contractions"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223848">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ajones.mark-t"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Apatrick.merrell-l"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65Y20"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ABunch-Kaufman+factorization+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asymmetric+indefinite+matrices"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abanded+matrices"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ageneralized+eigenvalue+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALanczos%27+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acomplexities"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abanded+LU+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acomparisons"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultifrontal+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aindefinite+factorization"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223849">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aforsgren.anders"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amurray.walter"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65K05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A90C30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aindefinite+matrix+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anegative+curvature"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alarge-scale+minimization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alinesearch+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ANewton+methods"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alarge-scale+linear+equality-constrained+minimization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aconvergence"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223850">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amathias.roy"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A45"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A12"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15B48"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A60"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3A%5C%28s%5C%29-numbers"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aperturbation+bounds"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apolar+decomposition"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amajorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aunitarily+invariant+norm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aunitary+Procrustes+problem"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223851">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Abarlow.jesse-l"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F15"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adivide-and-conquer+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asymmetric+tridiagonal+eigenvalue+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ashared+memory+multiprocessor+computers"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aerror+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Astopping+criterion"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aspectral+function"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aupdate+methods"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abackward+error+bounds"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aeigenvectors"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abanded%2C+symmetric+Toeplitz+matrices"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223852">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ahoff.david"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Akhodja.mohamed-r"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35Q30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76T99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35D05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anonisentropic+flow"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aupper+bounds+for+norms"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ANavier-Stokes+equations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acompressible+van+der+Waals+fluids"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aone+space+dimension"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anonlinear+stability"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asteady+state+solutions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aglobal+weak+solution"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223853">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Areddy.satish-c"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aschmid.peter-j"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ahenningson.dan-s"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34L05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76E05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apseudospectra"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AOrr-Sommerfeld+operator"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aplane+Poiseuille+flow"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asensitivity+to+perturbations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AAiry+equation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aeigenvalues"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223854">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aguttmann.anthony-john"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Athompson.colin-j"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76M25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76H05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35C10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76N10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76G25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainviscid%2C+compressible%2C+perfect+diatomic+gas"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acircular+cylinder"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asinusoidal+wall"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amaximum+speed+series"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aradius+of+convergence"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amoment-+generating+function"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AJanzen-Rayleigh+expansion"/>
+		</rdf:Description>
+
+</rdf:RDF>		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223779">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Anovikov.s-ya"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60B05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60E15"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALorentz+functional+space"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainequalities"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223780">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aobnosov.yurii-v"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A30E25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3A%5C%28%5Cmathbb%7BR%7D%5C%29-linear+conjugation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelliptic+integration"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AJacobi+delta-function"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aheat+conduction"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adiffusion+and+filtration"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223781">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Apetrov.egor-e"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A44A12"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ARadon+transform"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ARadon+image+of+fast+decreasing+functions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aintrinsic+conditions"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223782">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Apolonskij.yu-a"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A46A22"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47A20"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainterpolation+of+subspaces"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asimultaneous+extension+of+a+family+of+operators+majorized+by+a+fixed+sublinear+operator"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aconditional+completeness"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainterpolation+property"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223783">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asilvestrov.vasilii-vasilevich"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A74S30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A74B05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ARiemann+boundary+value+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Astrain+intensity+coefficients"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223784">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asukacheva.tamara-gennadevna"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34A09"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aimplicit+systems+of+differential+equations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aindex+one"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asingular"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ADAEs"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223785">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Achuprunov.aleksei-n"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60B12"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60B05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aalmost+sure+convergence"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AOrlicz+spaces"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acharacterizations+of+infinitely+divisible+laws"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AHilbert+spaces"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223786">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Azhukova.nina-ivanovna"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A57R30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ARiemannian+foliation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asingularity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aleaf"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Astability"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223787">
+			<info:year>1992</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A28A35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A03C20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A28C20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60G30"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223788">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asamko.stefan-g"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ayakhshiboev.mahmadyor-u"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A26A33"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Atruncation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALiouville%27s+fractional+integro-differentiation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Afractional+differentiation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AChen-Marchaud+fractional+derivatives"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AChen+fractional+integrals"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223789">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aumarov.khasan-galsanovich"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35G10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adiffusion+equation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asemigroup"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asolvability"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aapproximate+problem"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223790">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ayafaev.dimitri-r"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A81U10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35Q40"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aasymptotic+completeness"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asmooth+perturbations"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223791">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adobyinsky.sylvia"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ameyer.yves-f"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A26B35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adiv-curl+lemma"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Arenormalization+operators"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223792">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asjostrand.johannes"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47A40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A81U10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acounting+function+of+the+positive+eigenvalues"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ADirichlet+realization+of+the+Laplacian+outside+a+bounded+convex+domain"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223793">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aleichtnam.eric"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35A20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35C10"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223794">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adagnolo.andrea"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35A27"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A32C38"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35A20"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223795">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amartinez.andre"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A81Q20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47G30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aspectral+properties+of+%5C%28h%5C%29-pseudodifferential+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aresonances"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Atunneling+between+microlocal+wells"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aremainde"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ar+estimates"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223796">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aladyzhenskaya.olga-aleksandrovna"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76M25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35Q30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76D05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amagnetohydrodynamics"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AGalerkin-Faedo+approximations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aminimal+global+%5C%28B%5C%29-+attractor"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainitial-boundary+value+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Athermo-convection"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223797">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adimassi.mouez"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A81Q20"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asemiclassical+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Atrace+formula"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aslow+perturbation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aasymptotic+expansion"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aperiodic+Schr%C3%B6dinger+operator"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AFloquet+spectral+band"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223798">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aderezinski.jean"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A81U10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A70F10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35Q40"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aproperties+of+classical+and+quantum+scattering"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223799">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Alerner.nicolas"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alocal+solvability+properties"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223800">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aikawa.mitsuru"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A30B60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A78A45"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AHelmholtz+equation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ADirichlet+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aanalytic+continuation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adistribution+of+poles+of+scattering+matrices"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223801">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Agerard.patrick"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aleichtnam.eric"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37A99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A58J60"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aergodic+theory"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aeigenfunctions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abilliard+problem"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223802">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aivrii.v-ja"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A58J40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37C10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aperiodic+flow"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apseudodifferential+operators"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acritical+values"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ajoint+spectrum"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aspectral+properties+of+Hamiltonians"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223803">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aegorov.yuri-vladimirovich"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J15"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223804">
+			<info:year>1992</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A58J50"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P20"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aspectral+asymptotics"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aboundary+value+problems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelliptic+operators"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223805">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Apetkov.vesselin-m"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J05"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223806">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ariviere.tristan"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A58E20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35D10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aregularity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aweak+solutions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3A3-dimensional+Euclidean+ball"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aharmonic+maps"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AEuclidean+2-sphere"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223807">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Atemam.roger-m"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37C70"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A58D25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34G20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35G10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K25"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223808">
+			<info:year>1992</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35R60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A92D25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aparabolic+equations+with+randomness"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aasymptotic+behaviour"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ahigher+moments+of+solution"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Afirst+moments"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Afundamental+solution"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223809">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Acancelier.c-e"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Achemin.jean-yves"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Axu.chao-jiang"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35S05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47G30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AWeyl+calculus"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asubelliptic+pseudodifferential+operators"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ageneralized+Laplacian"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aparametrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aimbedding"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ASobolev+spaces"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223810">
+			<info:year>1992</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Achemin.jean-yves"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A46E35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47G10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47G30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ASobolev-type+spaces+of+distributions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AWeyl-H%C3%B6rmander+symbolic+calculus"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223811">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Agimse.tore"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35L65"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35L67"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76T99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35R05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35D05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adiscontinuous+flow"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aporous+media"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aconstructive+proof"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223812">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aavrin.joel-d"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K57"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A80A25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B40"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Areaction-diffusion+system"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acombustion"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223813">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aabergel.frederic"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ahilhorst.danielle"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aissard-roch.francoise"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K55"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35R35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35Q35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asurface+tension"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aone-phase+Stefan+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Awell-posedness+result"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223814">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Awolanski.noemi-i"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35K60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35A05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aparabolic+equations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aboundary+value+problems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apositive+solutions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aglobal+existence"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Afinite+time+blow-up"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223815">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Akawohl.bernd"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Alevine.howard-allen"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Avelte.waldemar"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J50"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J55"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A49R50"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A74K20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A74G60"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alinear+elasticity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aclamped+plate+under+compression"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aclamped+vibrating+plate+under+tension"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asingularly+perturbed+variational+problems"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223816">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asakai.makoto"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A30E20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A30E05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A30E99"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aquadrature+domain"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ASchwarz+function"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainversion"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223817">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Acolton.david-l"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ahahner.peter"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35R30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aacoustic+waves"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelectromagnetic+waves"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adual+space+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainverse+scattering"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223818">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amunoz-rivera.jaime-edilberto"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A74A15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35M10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B40"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALyapunov+function"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223819">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Athieme.horst-r"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37-XX"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A92D30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adynamical+system"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Auniform+strong+persistence+under+relaxed+point-+dissipativity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aepidemic+model"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aspread+of+an+infections+disease"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Agrowth+of+the+population"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223820">
+			<info:year>1993</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35A05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B65"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34B15"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Auniqueness"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asemilinear+elliptic+equation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AEmden-Fowler+transformation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aunstable+manifold"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apositive+radially+symmetric+solution"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223821">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adunbar.steven-r"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34B15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34C30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37-XX"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A86A05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alarge+scale+ocean+circulation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Athird-order+nonlinear+differential+equation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aboundary+layer+problems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AWazewski%27s+theorem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainvariant+manifolds"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALyapunov+functions"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223822">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ado-nascimento.arnaldo-simal"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J65"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aradial+symmetric+solutions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aasymptotic+behaviour"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asemilinear+elliptic+boundary+value+problem"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223823">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ali.lige"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aliu.yaping"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35P05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47H10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B32"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelliptic+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aprincipal+eigenvalues"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abifurcation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asmooth+boundary"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ahomogeneous+Robin-Dirichlet+boundary+conditions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Athree-species+interactions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aexistence+of+positive+solutions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Astability"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Areaction-+diffusion+semiflow"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223824">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adaubechies.ingrid-c"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A42C40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A46E35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultiresolution+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aorthonormal+bases"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Awavelets+with+compact+support"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asymmetry"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aregularity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ascaling+function"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223825">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Acohen.albert"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adaubechies.ingrid-c"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A42C40"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A46A35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultiresolution+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Awavelet+packet"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Afrequency+resolution"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aorthonormal+bases"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abandwidth"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223826">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Alubinsky.doron-s"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asaff.edward-b"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A41A17"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A42C05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A41A10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aexponential+weights"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AMarkov+inequality"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ABernstein+inequalities"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AChristoffel+functions"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223827">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Agupta.sunetra"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aanderson.roy-m"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amay.robert-m"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A92D30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aantiviral+therapy"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aincubation+period+of+HIV-1"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainfectiousness"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aprevalence+of+infection"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abehaviour+change"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ahomogeneous+population"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adrug+efficacy"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abasic+reproductive+rate"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aheterogeneous+population"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aproportionate+mixing"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223828">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asingpurwalla.nozer-d"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Awilson.simon-p"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A90B99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A91A80"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A62M10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A90-02"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60K10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aforecasting"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AKalman+filtering"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Areliability"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Arenewal+theory"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Atime+series+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Awarranties"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223829">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ajacquez.john-a"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asimon.carl-p"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A92B05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93A30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A37N99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93A99"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amass+balance+considerations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acompartmental+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Areview"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anonlinear+compartmental+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aunified+and+simplified+theory"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aoverview"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alinear+compartmental+system"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apartition"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abasic+types"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223830">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Akeener.james-p"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A62J15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15B48"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A18"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A05C50"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apaired+comparisons"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aranking"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aorderings"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Auneven+paired+competition"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3APerron-Frobenius+theorem"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223831">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amacki.jack-w"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Anistri.paolo"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Azecca.pietro"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34A60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34C25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A94C05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34-02"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Areview+paper"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amodels+for+hysteresis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amodels+due+to+Preisach%2C+Ishlinskij%2C+Duhem-Madelung%2C+Krasnoselskij-Pokrovskij"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223832">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ahigham.nicholas-j"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65K05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A90C30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AGaussian+elimination"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amatrix+condition+number+estimation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amatrix+computations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adirect+search+methods"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acondition+estimators"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amatrix+inversion"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AVandermonde+system+solvers"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amatrix+multiplication"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AQR-+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aalternating+direction+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultidirectional+search+method"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223833">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Agilbert.john-r"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aliu.joseph-w-h"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F50"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A05C20"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AGaussian+elimination"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anumerical+examples"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelimination+tree"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ACholesky+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asparse+symmetric+positive+definite+matrices"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asparse+LU+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aunsymmetric+matrices"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adirected+acyclic+graphs"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aelimination+dags"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223834">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amoonen.marc-s"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Avan-dooren.paul-m"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Avandewalle.joos-p"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65Y20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65Y05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aparallel+algorithms"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Arecursive+least+squares"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asingular+value+decomposition+updating+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Are-orthogonalization+scheme"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asystolic+array"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acomplexity"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AGivens+rotations"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223835">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Akaufman.linda"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F15"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abanded+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ageneralized+eigenvalue+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Achasing+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anumerical+results"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223836">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aolkin.ingram"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Arachev.svetlozar-t"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A45"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A60E15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A62J10"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultivariate+distributions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adistance+of+random+vectors"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acovariance+matrices"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223837">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ajohnson.charles-royal"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amehrmann.volker-ludwig"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aolesky.d-dale"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93B05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asign+controllability"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223838">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Afrommer.andreas"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amayer.gunter"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65G30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainterval+Gaussian+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainterval+vector"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AGaussian+algorithm"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223839">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Arichter.stephen"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Adavis.larry-d"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Acollins.emmanuel-g-jun"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65K10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A24"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93D05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alinear+systems+of+equations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALyapunov+equations"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223840">
+			<info:year>1993</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65N55"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65N06"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65N30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35J25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultigrid+methods"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amethod+of+incremental+unknowns"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultilevel+finite+difference"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alinear+second+order+elliptic+boundary+value+problems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ahierarchical+basis+finite+element+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ADirichlet+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acondition+number"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anumerical+examples"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223841">
+			<info:year>1993</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F50"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asparse+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acomponentwise+perturbations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Astable+algorithms"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anumerical+experiments"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3APerron+root"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anon-negative+and+irreducible+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aerror+bound"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3APerron+eigenvectors"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainverse+iteration+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abackward+error"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223842">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Asweet.douglas"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aerror+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AToeplitz+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ABareiss+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apivoting"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALU+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ATrench+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ANumerical+examples"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223843">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Astewart.gilbert-w"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AULV+decompositions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aupdating"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Arank+revealing"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223844">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Abini.dario-andrea"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Afavati.paola"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A12"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AToeplitz+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acirculant+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AFourier+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adiscrete+Hartley+transform"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apreconditioned+conjugate+gradient+method"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223845">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Akaszkurewicz.eugenius"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Abhaya.amit"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93D09"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93D30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A93C15"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALyapunov+functions"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223846">
+			<info:year>1993</info:year>"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F35"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A12"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15B57"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anonsymmetric+Toeplitz+systems"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apreconditioned+nonsymmetric+iterative+solvers"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acirculant+preconditioners"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asingular+value+distribution"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AToeplitz+matrices"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aeigenvalues"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anumerical+examples"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223847">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Anaevdal.geir"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A60"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A47A20"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15B57"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apartial+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amatrix+completion"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AToeplitz+matrix"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apatterns"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alower+triangular+Toeplitz+contractions"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223848">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ajones.mark-t"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Apatrick.merrell-l"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F15"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65Y20"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ABunch-Kaufman+factorization+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asymmetric+indefinite+matrices"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abanded+matrices"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ageneralized+eigenvalue+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ALanczos%27+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acomplexities"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abanded+LU+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acomparisons"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amultifrontal+algorithm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aindefinite+factorization"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223849">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aforsgren.anders"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amurray.walter"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65K05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A90C30"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aindefinite+matrix+factorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anegative+curvature"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alarge-scale+minimization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alinesearch+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ANewton+methods"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Alarge-scale+linear+equality-constrained+minimization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aconvergence"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223850">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Amathias.roy"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A45"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A12"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15B48"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A15A60"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3A%5C%28s%5C%29-numbers"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aperturbation+bounds"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apolar+decomposition"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amajorization"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aunitarily+invariant+norm"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aunitary+Procrustes+problem"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223851">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Abarlow.jesse-l"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A65F15"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Adivide-and-conquer+method"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asymmetric+tridiagonal+eigenvalue+problem"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ashared+memory+multiprocessor+computers"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aerror+analysis"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Astopping+criterion"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aspectral+function"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aupdate+methods"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abackward+error+bounds"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aeigenvectors"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Abanded%2C+symmetric+Toeplitz+matrices"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223852">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ahoff.david"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Akhodja.mohamed-r"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35Q30"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76T99"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35D05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35B35"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anonisentropic+flow"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aupper+bounds+for+norms"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3ANavier-Stokes+equations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acompressible+van+der+Waals+fluids"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aone+space+dimension"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Anonlinear+stability"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asteady+state+solutions"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aglobal+weak+solution"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223853">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Areddy.satish-c"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aschmid.peter-j"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Ahenningson.dan-s"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A34L05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76E05"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Apseudospectra"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AOrr-Sommerfeld+operator"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aplane+Poiseuille+flow"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asensitivity+to+perturbations"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AAiry+equation"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aeigenvalues"/>
+		</rdf:Description>
+
+		<rdf:Description rdf:about="https://zbmath.org/?q=an%3A1448.68463223854">
+			<info:year>1993</info:year>"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Aguttmann.anthony-john"/>
+			<info:author rdf:resource="https://zbmath.org/authors/?q=ai%3Athompson.colin-j"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76M25"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76H05"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A35C10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76N10"/>
+			<info:classification rdf:resource="https://zbmath.org/classification/?q=cc%3A76G25"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Ainviscid%2C+compressible%2C+perfect+diatomic+gas"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Acircular+cylinder"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Asinusoidal+wall"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amaximum+speed+series"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Aradius+of+convergence"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3Amoment-+generating+function"/>
+			<info:keyword rdf:resource="https://zbmath.org/?q=ut%3AJanzen-Rayleigh+expansion"/>
+		</rdf:Description>
+
+</rdf:RDF><?xml version='1.0' encoding='UTF-8'?>
+
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:info="https://zbmath.org/infos#">
+

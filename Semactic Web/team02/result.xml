@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<sparql >
+	<head>
+		<variable name='author'/>
+	</head>
+	<results>
+		<result>
+			<binding name='author'>
+				<uri>https://zbmath.org/authors/?q=ai%3Achemin.jean-yves</uri>
+			</binding>
+		</result>
+		<result>
+			<binding name='author'>
+				<uri>https://zbmath.org/authors/?q=ai%3Axu.chao-jiang</uri>
+			</binding>
+		</result>
+	</results>
+</sparql>
